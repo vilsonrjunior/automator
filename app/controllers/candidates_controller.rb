@@ -1,1 +1,2 @@
-candidates_controller.rb
+class CandidatesController < ApplicationController
+end

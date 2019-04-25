@@ -1,1 +1,2 @@
-positions_controller.rb
+class PositionsController < ApplicationController
+end
